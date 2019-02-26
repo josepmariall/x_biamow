@@ -9,7 +9,7 @@ The files contains the following main documents:
 2. Data Visualizations and Data Wrangling
 3. Data Preparation (test)
 4. Data Preparation Train data (2)
-5. Algorithm selection and fine tunning
+5. Algorithm selection, fine tunning and evaluation
 6. Running a prediction 
 
 File 2 clearly shows through certain visualizations the relationships between variables and the label, so we can see how 3 clearly distinct product types behave according to the variable.
