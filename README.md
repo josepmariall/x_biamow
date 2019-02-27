@@ -1,5 +1,5 @@
 
-This project aims at predicting the attractiveness of a certain product. 
+This project aims at predicting the **attractiveness of a certain product**. 
 
 I provide the environment used to run this code.
 
