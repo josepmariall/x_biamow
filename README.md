@@ -2,8 +2,9 @@
 This project aims at predicting the **attractiveness of a certain product**. 
 
 ## Install
-I provide the [environment] used to run this code.
+I provide the [environment](https://github.com/titoniubo/x_biamow/blob/master/xebiamow.yml) used to run this code.
 
+## Table of contents
 The files contains the following main documents:
 
 1. Data Preparation (train)
@@ -13,8 +14,12 @@ The files contains the following main documents:
 5. Algorithm selection, fine tunning and evaluation
 6. Running a prediction 
 
+### Some clarifications about the contents
 File 2 clearly shows through certain visualizations the relationships between variables and the label, so we can see how 3 clearly distinct product types behave according to the variable.
 
 File number 5 shows how different algorithms have been tested, and how the best one has been improved through tuning its hyperparameters. Also this files provides graphics and evidence that  the crated model will generalize well. 
 
 The author has done his best to produce an unbiased algorithm, however the algorithm is based on data, and data may be biased based on its collection process.
+
+# License
+This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE] file.
