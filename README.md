@@ -1,5 +1,5 @@
 # Predicting product attractiveness
-This project aims at predicting the **attractiveness of a certain product**. 
+This project aims at predicting the **attractiveness of a household device**. 
 
 ## Install
 I provide the [environment](https://github.com/titoniubo/x_biamow/blob/master/xebiamow.yml) used to run this code.
