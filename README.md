@@ -21,5 +21,5 @@ File number 5 shows how different algorithms have been tested, and how the best 
 
 The author has done his best to produce an unbiased algorithm, however the algorithm is based on data, and data may be biased based on its collection process.
 
-# License
-This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE] file.
+## License
+This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/x_biamow/blob/master/License.txt) file.
