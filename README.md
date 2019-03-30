@@ -21,5 +21,15 @@ File number 5 shows how different algorithms have been tested, and how the best 
 
 The author has done his best to produce an unbiased algorithm, however the algorithm is based on data, and data may be biased based on its collection process.
 
-## License
+### Code of ethics
+
+I, a Data practitioner, will promote the well-being of others and myself while striving to do no harm with data through:
+1. Professional application of analytical techniques
+2. Humility in analytic claims
+3. Anticipation of legal and regulatory scenarios
+4. Transparency in computation and documentation
+5. Fidelity to this oath beyond bottom line
+
+
+### License
 This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/x_biamow/blob/master/License.txt) file.
