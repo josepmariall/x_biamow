@@ -23,7 +23,7 @@ The author has done his best to produce an unbiased algorithm, however the algor
 
 ### Code of ethics
 
-This project has been undertaken complying with a code of [ethics]() 
+This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/x_biamow/blob/master/Code%20of%20ethics.txt) 
 
 
 ### License
