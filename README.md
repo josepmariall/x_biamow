@@ -2,17 +2,18 @@
 This project aims at predicting the **attractiveness of a household device**. 
 
 ## Install
-I provide the [environment](https://github.com/titoniubo/x_biamow/blob/master/xebiamow.yml) used to run this code.
+I provide the [environment](https://github.com/titoniubo/x_biamow/blob/master/environment.yml) used to run this code.
 
 ## Table of contents
 The files contains the following main documents:
 
-1. Data Preparation (train)
-2. Data Visualizations and Data Wrangling
-3. Data Preparation (test)
-4. Data Preparation Train data (2)
-5. Algorithm selection, fine tunning and evaluation
-6. Running a prediction 
+1. [Data Preparation (train)](https://github.com/titoniubo/x_biamow/blob/master/1.%20Data%20Preparation%20(train)%20.ipynb)
+2. [Data Visualizations and Data Wrangling](https://github.com/titoniubo/x_biamow/blob/master/2.%20Data%20Visualizations%20and%20Wrangling%20.ipynb)
+3. [Data Preparation (test)](https://github.com/titoniubo/x_biamow/blob/master/3.%20Data%20Preparation%20(test)%20.ipynb)
+4. [Data Preparation Train data (2)](https://github.com/titoniubo/x_biamow/blob/master/4.%20Data%20Preparation%20Train%20data%20(2).ipynb)
+5. [Algorithm selection](https://github.com/titoniubo/x_biamow/blob/master/5.%20Algorithm%20Selection.ipynb)
+6. [Feature Selection, Algorithm fine tunning, Generalization evidence](https://github.com/titoniubo/x_biamow/blob/master/6.%20Feature%20Selection%20and%20Algorithm%20improvement.ipynb)
+7. [Running a prediction (inference](https://github.com/titoniubo/x_biamow/blob/master/7.%20Runnig%20a%20prediction(%20inference).ipynb)
 
 ### Some clarifications about the contents
 File 2 clearly shows through certain visualizations the relationships between variables and the label, so we can see how 3 clearly distinct product types behave according to the variable.
