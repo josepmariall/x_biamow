@@ -18,7 +18,9 @@ The files contains the following main documents:
 ### Some clarifications about the contents
 File 2 clearly shows through certain visualizations the relationships between variables and the label, so we can see how 3 clearly distinct product types behave according to the variable.
 
-File number 5 shows how different algorithms have been tested, and how the best one has been improved through tuning its hyperparameters. Also this files provides graphics and evidence that  the crated model will generalize well. 
+File number 5 presents the results of running different algorithms.
+
+File number 6 takes the best algorithm from file 5 and improves it, how? By selecting the best features selection for this model (hybrid method) and then tuning its parameters. 
 
 The author has done his best to produce an unbiased algorithm, however the algorithm is based on data, and data may be biased based on its collection process.
 
